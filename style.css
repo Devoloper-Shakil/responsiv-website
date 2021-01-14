@@ -23,7 +23,7 @@
 .crad-img{
     background-color: gray;
 }
-@media (min-width: 576px) { 
+@media (max-width: 576px) { 
     .nav-logo{
         width: 85%;
     }
@@ -37,20 +37,7 @@
         margin: auto;
     }
  }
- @media (max-width: 576px) { 
-    .nav-logo{
-        width: 85%;
-    }
-    .top-menu{
-        height: 698px;
-    }
-    .servis{
-        width: 524px;;
-    }
-    img{
-        margin: auto;
-    }
- }
+ 
  @media (min-width: 768px) { 
     .top-menu {
         height: 426px;
