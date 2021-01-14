@@ -16,8 +16,9 @@
     height: 176px;
 }
 .findd-prfect{
-    background-color: #fff !important;
-border-radius: 10px;
+    background-color: #fff ;
+    border-radius: 10px;
+   
 }
 .crad-img{
     background-color: gray;
