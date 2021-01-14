@@ -23,7 +23,7 @@
 .crad-img{
     background-color: gray;
 }
-@media (min-width: 576px) { 
+@media (max-width: 576px) { 
     .nav-logo{
         width: 85%;
     }
@@ -62,3 +62,4 @@
         height: 582px;
     }
   }
+ 
