@@ -73,3 +73,55 @@ img{
         margin-left: -50px;
     }
    }
+
+@media (min-width: 367px) { 
+    .findd-prfect{
+        width: 399px;}
+    img{
+         margin: auto;
+    }
+    .nav-logo img{
+        width: 100% !important;
+    }
+    .smle-menu{
+        margin: auto;
+    }
+    .top-menu {
+        height: 733px;
+    }
+    .findd-prfect {
+        width: 296px;
+    height: 123px;
+    font-size: 13px;
+    }
+    .servis-ditels{
+        margin-left: -50px;
+    }
+   }
+
+   @media (min-width: 345px) { 
+    .findd-prfect{
+        width: 399px;}
+    img{
+         margin: auto;
+    }
+    .nav-logo img{
+        width: 100% !important;
+    }
+    .smle-menu{
+        margin: auto;
+    }
+    .top-menu {
+        height: 733px;
+    }
+    .findd-prfect {
+        width: 296px;
+    height: 123px;
+    font-size: 13px;
+    margin-left: -28px;
+    }
+    .servis-ditels{
+        margin-left: -50px;
+    }
+   }
+  
