@@ -24,105 +24,41 @@
     background-color: gray;
 }
 @media (min-width: 576px) { 
+    .nav-logo{
+        width: 85%;
+    }
+    .top-menu{
+        height: 698px;
+    }
+    .servis{
+        width: 484px;
+    }
     img{
         margin: auto;
-    }
-    .findd-prfect{
-        width: 446px;
-    }
-    .nav-logo{
-        float: left;
-    width: 412px;
     }
  }
  @media (min-width: 768px) { 
-    .findd-prfect{
-        width: 549px;
+    .top-menu {
+        height: 426px;
     }
-    img{
+    .servis {
+        width: 588px;
         margin: auto;
+          
+    }
+ }
+ @media (min-width: 992px) { 
+    .servis {
+        width: 454px;
     }
   }
-@media (min-width: 992px) { 
-    .findd-prfect{
-        width: 399px;}
-img{
-         margin: auto;
-    }
-   }
-   @media (min-width: 375px) { 
-    .findd-prfect{
-        width: 399px;}
-    img{
-         margin: auto;
-    }
-    .nav-logo img{
-        width: 100% !important;
-    }
-    .smle-menu{
-        margin: auto;
-    }
+  @media (min-width: 1200px) { 
     .top-menu {
-        height: 733px;
+        height: 500px;
     }
-    .findd-prfect {
-        width: 296px;
-    height: 123px;
-    font-size: 13px;
-    }
-    .servis-ditels{
-        margin-left: -50px;
-    }
-   }
-
-@media (min-width: 367px) { 
-    .findd-prfect{
-        width: 399px;}
-    img{
-         margin: auto;
-    }
-    .nav-logo img{
-        width: 100% !important;
-    }
-    .smle-menu{
-        margin: auto;
-    }
+  }
+  @media (min-width: 1400px) { 
     .top-menu {
-        height: 733px;
+        height: 582px;
     }
-    .findd-prfect {
-        width: 296px;
-    height: 123px;
-    font-size: 13px;
-    }
-    .servis-ditels{
-        margin-left: -50px;
-    }
-   }
-
-   @media (min-width: 345px) { 
-    .findd-prfect{
-        width: 399px;}
-    img{
-         margin: auto;
-    }
-    .nav-logo img{
-        width: 100% !important;
-    }
-    .smle-menu{
-        margin: auto;
-    }
-    .top-menu {
-        height: 733px;
-    }
-    .findd-prfect {
-        width: 309px;
-    height: 123px;
-    font-size: 13px;
-    margin-left: -35px;
-    }
-    .servis-ditels{
-        margin-left: -50px;
-    }
-}
-  
+  }
